@@ -43,7 +43,7 @@ h2 {
     font-size: 1.5rem;
 }
 
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 799px) {
 
     body {
         background-color: #f4f4f4;
@@ -106,7 +106,7 @@ h2 {
     }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 800px) {
 
     body {
         font-family: Arial, sans-serif;
