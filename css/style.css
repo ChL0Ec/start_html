@@ -209,3 +209,10 @@ h2 {
         height: auto;
     }
 }
+
+@media screen and (prefers-reduced-motion: reduce) {
+    /* styles to apply if a user's device settings are set to reduced motion */
+    .gif {
+        display: none;
+    }
+}
